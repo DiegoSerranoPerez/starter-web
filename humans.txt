@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Diego Serrano	dserranop@indra.es
 
 # THANKS
 
